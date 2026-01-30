@@ -1,24 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m Ishwari Patil
 
-Software Engineer | Java • Python • Full-Stack Developer
-Building smart projects that solve real problems.
+Software Engineer | Java • Python • Full-Stack
+Building practical, real-world applications with clean, scalable code.
 
-⭐ What I do:
-
-Develop clean, scalable applications with Java & Python
-
-Build full-stack solutions with frontend + backend
-
-Create AI-powered tools and intelligent systems
-
-🚀 I enjoy working on:
-
-Real world full-stack applications
-
-Meaningful automation and task-oriented tools
-
-Projects that blend tech and creativity
+I work across frontend and backend to turn ideas into reliable solutions, with a strong focus on problem-solving, automation, and maintainable systems.
 
 💡 Core strengths:
 Java · Python · REST APIs · Frontend basics · Problem-solving⚡ Fun fact<br>I value progress over perfection — I’d rather improve 1% daily than wait to be “ready.”
