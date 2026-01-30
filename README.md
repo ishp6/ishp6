@@ -1,5 +1,27 @@
 # 💫 About Me:
-Hi! I’m a Computer Science graduate and an aspiring Software Developer who enjoys turning concepts into working applications and learning by building things hands-on.<br><br>🔭 I’m currently working on<br><br>Strengthening my Data Structures & Algorithms (Java)<br><br>Building frontend and full-stack projects to improve real-world development skills<br><br>Improving code quality, problem-solving, and consistency through daily practice<br><br>👯 I’m looking to collaborate on<br><br>Beginner to intermediate frontend or full-stack projects<br><br>Open-source projects where I can contribute, learn best practices, and grow with others<br><br>🤝 I’m looking for help with<br><br>Writing clean, scalable code<br><br>Understanding backend architecture, APIs, and system design basics<br><br>Guidance on industry-level project standards<br><br>🌱 I’m currently learning<br><br>Java & DSA<br><br>HTML, CSS, JavaScript, React<br><br>Spring Boot and an introduction to AWS & deployment<br><br>💬 Ask me about<br><br>Java fundamentals & DSA prep<br><br>Frontend basics and project learning paths<br><br>Staying disciplined and consistent while preparing for tech roles<br><br>⚡ Fun fact<br>I value progress over perfection — I’d rather improve 1% daily than wait to be “ready.”
+👋 Hi, I’m Ishwari Patil
+
+Software Engineer | Java • Python • Full-Stack Developer
+Building smart projects that solve real problems.
+
+⭐ What I do:
+
+Develop clean, scalable applications with Java & Python
+
+Build full-stack solutions with frontend + backend
+
+Create AI-powered tools and intelligent systems
+
+🚀 I enjoy working on:
+
+Real world full-stack applications
+
+Meaningful automation and task-oriented tools
+
+Projects that blend tech and creativity
+
+💡 Core strengths:
+Java · Python · REST APIs · Frontend basics · Problem-solving⚡ Fun fact<br>I value progress over perfection — I’d rather improve 1% daily than wait to be “ready.”
 
 
 ## 🌐 Socials:
