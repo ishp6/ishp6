@@ -1,14 +1,18 @@
 
-👋 Hi, I’m Ishwari Patil
-
-Software Engineer | Java • Python • Full-Stack
-Building practical, real-world applications with clean, scalable code.
-
-I work across frontend and backend to turn ideas into reliable solutions, with a strong focus on problem-solving, automation, and maintainable systems.
-
-💡 Core strengths:
-Java · Python · REST APIs · Frontend basics · Problem-solving⚡ Fun fact<br>I value progress over perfection — I’d rather improve 1% daily than wait to be “ready.”
-
+# 👋 Hi, I'm Ishwari
+ 
+CS grad from Pune who builds things — from full-stack web apps to AI-powered tools.
+Currently exploring the intersection of **React**, **Java**, and **NLP/ML**.
+ 
+---
+ 
+## 🔭 Recent Work
+ 
+- **[OMDB Movie Explorer](https://github.com/ishp6/OMDB-movie-explorer)** — React + TypeScript movie search app with filtering, pagination & optimized API calls
+- **[Enterprise CRM System](https://github.com/ishp6/Bharat-gas-agency-crm-tool)** — Java + OOP + MVC architecture built for a real Bharat Gas Agency
+- **[Smart Task Agent](https://github.com/ishp6/smart-task-agent)** — NLP-powered task manager using LangChain, OpenAI API & Python
+- **[Real-Time Analytics Dashboard](https://github.com/ishp6/Real-time-Analytics-Dashboard)** — Live data streaming with WebSocket, Node.js & Chart.js
+- **Published ML/NLP Research** — Automated subjective answer evaluation using ML algorithms & semantic analysis
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ishwariii__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishwari-patil-9b7232294/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishwaripatil689@gmail.com) 
