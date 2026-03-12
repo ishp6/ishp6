@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I’m Ishwari Patil
 
 Software Engineer | Java • Python • Full-Stack
@@ -36,8 +36,6 @@ Java · Python · REST APIs · Frontend basics · Problem-solving⚡ Fun fact<br
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ishp6&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ishp6&icon=0&color=0)](https://visitcount.itsvg.in)
