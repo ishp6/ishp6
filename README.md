@@ -8,7 +8,7 @@ Currently exploring the intersection of **React**, **Java**, and **NLP/ML**.
  
 ## 🔭 Recent Work
  
-- **[OMDB Movie Explorer](https://github.com/ishp6/OMDB-movie-explorer)** — React + TypeScript movie search app with filtering, pagination & optimized API calls
+- **[Pulsebed](https://github.com/ishp6/Pulsebed)** — Real-time hospital bed tracking and priority-matching platform — routes critical patients to open beds the instant they free up, with live geolocation-based hospital search and pre-arrival first-aid guidance.
 - **[Enterprise CRM System](https://github.com/ishp6/Bharat-gas-agency-crm-tool)** — Java + OOP + MVC architecture built for a real Bharat Gas Agency
 - **[Smart Task Agent](https://github.com/ishp6/smart-task-agent)** — NLP-powered task manager using LangChain, OpenAI API & Python
 - **[Real-Time Analytics Dashboard](https://github.com/ishp6/Real-time-Analytics-Dashboard)** — Live data streaming with WebSocket, Node.js & Chart.js
