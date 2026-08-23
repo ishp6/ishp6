@@ -9,10 +9,10 @@ Currently exploring the intersection of **React**, **Java**, and **NLP/ML**.
 ## 🔭 Recent Work
  
 - **[Pulsebed](https://github.com/ishp6/Pulsebed)** — Real-time hospital bed tracking and priority-matching platform — routes critical patients to open beds the instant they free up, with live geolocation-based hospital search and pre-arrival first-aid guidance.
-- **[Enterprise CRM System](https://github.com/ishp6/Bharat-gas-agency-crm-tool)** — Java + OOP + MVC architecture built for a real Bharat Gas Agency
-- **[Smart Task Agent](https://github.com/ishp6/smart-task-agent)** — NLP-powered task manager using LangChain, OpenAI API & Python
-- **[Real-Time Analytics Dashboard](https://github.com/ishp6/Real-time-Analytics-Dashboard)** — Live data streaming with WebSocket, Node.js & Chart.js
-- **Published ML/NLP Research** — Automated subjective answer evaluation using ML algorithms & semantic analysis
+- **[Subjective-Answer-Assessment-using-ML-and-NLP
+](https://github.com/ishp6/Subjective-Answer-Assessment-using-ML-and-NLP)** — A full-fledged Django student management system for Admin/Staff/Students — attendance, results, and feedback, with an AI chatbot, automatic subjective-answer evaluation, and real-time Firebase notifications.
+- **[Casefile-match](https://github.com/ishp6/casefile-match)** — A React + Vite tool that scores a resume against a job description on keyword match, then uses Claude to generate a tailored summary, rewritten bullets, and a gap check.
+- **[VIGIL](https://github.com/ishp6/Vigil)** — An original scroll-driven interactive web experience built with vanilla JS and canvas, using cinematic reveal animations and ambient sound design to tell a story as you scroll.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ishwariii__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishwari-patil-9b7232294/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishwaripatil689@gmail.com) 
