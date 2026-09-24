@@ -9,6 +9,7 @@ Currently exploring the intersection of **React**, **Java**, and **NLP/ML**.
 ## 🔭 Recent Work
  
 - **[Pulsebed](https://github.com/ishp6/Pulsebed)** — Real-time hospital bed tracking and priority-matching platform — routes critical patients to open beds the instant they free up, with live geolocation-based hospital search and pre-arrival first-aid guidance.
+- **[Neuro-library](https://github.com/ishp6/Neuro-library)** — Personal experiences sparked my fascination with neurology, so I turned that curiosity into a project. I researched and built Neuro-Library—an interactive space to explore the nervous system, neurological disorders, and symptom patterns. A project that began with curiosity became something I’m genuinely proud to have created.
 - **[Subjective-Answer-Assessment-using-ML-and-NLP
 ](https://github.com/ishp6/Subjective-Answer-Assessment-using-ML-and-NLP)** — A full-fledged Django student management system for Admin/Staff/Students — attendance, results, and feedback, with an AI chatbot, automatic subjective-answer evaluation, and real-time Firebase notifications.
 - **[Casefile-match](https://github.com/ishp6/casefile-match)** — A React + Vite tool that scores a resume against a job description on keyword match, then uses Claude to generate a tailored summary, rewritten bullets, and a gap check.
