@@ -1,8 +1,7 @@
 
 # 👋 Hi, I'm Ishwari
  
-CS grad from Pune who builds things — from full-stack web apps to AI-powered tools.
-Currently exploring the intersection of **React**, **Java**, and **NLP/ML**.
+Java Full Stack Developer | Java 17, Spring Boot, REST APIs, Microservices, SQL, React.js | AWS & Docker
  
 ---
  
